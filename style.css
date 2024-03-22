@@ -85,6 +85,9 @@ nav .nav-link:hover{
     font-size: 12px;
     margin-left: 10px;
 }
+.register:hover{
+    color: silver;
+}
 .btn-cta{
     background-color: #000;
     width: 300px;
